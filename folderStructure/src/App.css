@@ -1,0 +1,20 @@
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.folder-browser {
+  font-size: 16px;
+  color: #333;
+}
+
+.folder {
+  margin-top: 5px;
+  color: #333;
+}
+
+.file {
+  margin-top: 5px;
+  padding-left: 20px;
+}
+
